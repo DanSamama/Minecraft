@@ -9,9 +9,9 @@ Technology used :
 
 In this simplify game, the user has 3 type of tools:
 
-a. Axe - for cuttinf trees
-b. Pickaxe - for mining rocks
-c. Shovel - for digging dirt
+* Axe - for cuttinf trees
+* Pickaxe - for mining rocks
+* Shovel - for digging dirt
 
 Clicking on a tool followed by clocking on the tile in the world will remove the tile and add it in the inventory.
 User can click on the tile in the inventory nd place in back in the world (only the last one)
